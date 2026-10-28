@@ -1,0 +1,5 @@
+interface:
+  display_name: Responsive UI Verification
+  short_description: Verify layouts and task states across screen sizes
+  default_prompt: Use $responsive-ui-verification to verify this UI change with comparable
+    renders and task-state checks.

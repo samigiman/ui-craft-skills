@@ -1,0 +1,5 @@
+interface:
+  display_name: Reference-Led Web Design
+  short_description: Turn a supplied reference into a coherent full site
+  default_prompt: Use $reference-led-web-design to implement the supplied reference
+    at the required fidelity and site scope.

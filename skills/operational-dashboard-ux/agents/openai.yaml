@@ -1,0 +1,5 @@
+interface:
+  display_name: Operational Dashboard UX
+  short_description: Make filters, work lists and real status understandable
+  default_prompt: Use $operational-dashboard-ux to make this operational dashboard
+    clearer and easier to use.

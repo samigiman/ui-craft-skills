@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">UI Craft Skills</title>
+  <desc id="desc">Make interfaces feel intentional. Six focused skills for direction, cleanup, reference fidelity, commerce, responsive verification and dashboards.</desc>
+  <rect width="1280" height="400" fill="#F4F1EA"/>
+  <path d="M0 0H1280V7H0Z" fill="#E64A2E"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172733">
+    <text x="58" y="63" font-size="16" font-weight="700" letter-spacing="3">UI CRAFT SKILLS</text>
+    <text x="58" y="144" font-size="64" font-weight="700" letter-spacing="-2">Make interfaces</text>
+    <text x="58" y="216" font-size="64" font-weight="700" letter-spacing="-2">feel intentional.</text>
+    <path d="M62 236H515" stroke="#E64A2E" stroke-width="6"/>
+    <text x="60" y="274" font-size="20" fill="#52616A">Real tasks. Clear hierarchy. A distinct identity.</text>
+    <path d="M60 311H1220" stroke="#CFD1CA"/>
+    <g font-size="15" font-weight="700">
+      <text x="60" y="352">01 Direction</text>
+      <text x="245" y="352">02 Deslop</text>
+      <text x="426" y="352">03 Reference</text>
+      <text x="634" y="352">04 Commerce</text>
+      <text x="845" y="352">05 Verification</text>
+      <text x="1078" y="352">06 Operations</text>
+    </g>
+  </g>
+  <g transform="translate(896 63)" fill="none" stroke="#172733" stroke-width="2">
+    <rect width="324" height="214" rx="5" fill="#FFFEFA"/>
+    <path d="M0 33H324"/>
+    <circle cx="17" cy="17" r="3" fill="#E64A2E" stroke="none"/>
+    <circle cx="30" cy="17" r="3" fill="#CFD1CA" stroke="none"/>
+    <circle cx="43" cy="17" r="3" fill="#CFD1CA" stroke="none"/>
+    <path d="M23 61H167M23 74H128" stroke-width="5"/>
+    <path d="M23 95H167M23 106H151M23 117H161" stroke="#ADB5B6"/>
+    <rect x="23" y="141" width="95" height="28" rx="2" fill="#E64A2E" stroke="none"/>
+    <rect x="194" y="58" width="107" height="111" fill="#EBEEE7" stroke="none"/>
+    <path d="M212 145L241 103L264 129L283 112" stroke="#6B7B79"/>
+    <circle cx="271" cy="82" r="7" fill="#E64A2E" stroke="none"/>
+    <path d="M23 191H301" stroke="#CFD1CA"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+interface:
+  display_name: UI Deslop
+  short_description: Remove generic patterns while preserving product identity
+  default_prompt: Use $ui-deslop to remove generic UI patterns while preserving this
+    product and its working flows.
